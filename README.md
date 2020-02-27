@@ -1,8 +1,8 @@
 # debug
-我爱你
--第一
--第二
-##代码引用
+1. 我爱你
+- 第一
+- 第二
+## 代码引用
 、、、
 import random as r
 
@@ -29,8 +29,6 @@ class Shark(Fish):
         #2.super函数     优点：不用参数
         #super().__init__()
         self.hungry = True
-
-
         
     def eat(self):
         if self.hungry:
