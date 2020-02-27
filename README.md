@@ -2,7 +2,7 @@
 - 第一
 - 第二
 ## 代码引用
-、、、
+```
 import random as r
 class Fish:
     def __init__(self):
@@ -11,4 +11,5 @@ class Fish:
     def move(self):
         self.x -=1
         print('我的位置是：',self.x,self.y)  
-、、、
+
+```
