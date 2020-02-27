@@ -3,10 +3,8 @@
 - 第一
 - 第二
 ## 代码引用
-、、、
+、
 import random as r
-
-
 class Fish:
     def __init__(self):
         self.x = r.randint(0,10)
@@ -36,5 +34,5 @@ class Shark(Fish):
             self.hungry = False
         else:
             print("太撑了吃不下了^_^")
-            
-、、、
+        
+、
